@@ -1,0 +1,5 @@
+{
+  "detectors": "yolov8n-face.pt",
+  "verification": "ir_18",
+  "tokenTG": ""
+}
